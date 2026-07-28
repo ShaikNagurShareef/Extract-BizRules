@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary
+*.tmp
+*.temp
+.claude/sessions/
+.claude/ide/
+
+# Large files
+*.log
+*.out
+
+# This repository contains ONLY the skill
+# No vendor/client data, codebase, or sample files
